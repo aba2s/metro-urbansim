@@ -1,4 +1,3 @@
-# metro-urbansim
 Goal
 ====
 This project is to make a bridge beetwen Metropolis and UrbanSim
@@ -9,18 +8,6 @@ METROPOLIS is a simulator of road congestion and affluence in public transport, 
 
 UrbanSim
 ========
-
-.. image:: https://img.shields.io/pypi/v/urbansim.svg
-    :target: https://pypi.python.org/pypi/urbansim/
-    :alt: Latest Version
-
-.. image:: https://travis-ci.org/UDST/urbansim.svg?branch=master
-   :alt: Build Status
-   :target: https://travis-ci.org/UDST/urbansim
-
-.. image:: https://coveralls.io/repos/UDST/urbansim/badge.svg?branch=master
-   :alt: Test Coverage
-   :target: https://coveralls.io/r/UDST/urbansim?branch=master
 
 UrbanSim is a platform for building statistical models of cities and regions. These models help forecast long-range patterns in real estate development, demographics, and related outcomes, under various policy scenarios.
 
